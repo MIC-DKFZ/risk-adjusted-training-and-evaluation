@@ -9,6 +9,8 @@ Copyright German Cancer Research Center (DKFZ) and contributors. Please make sur
 
 ### Cite
 
+If you use this work, please cite [[this]](https://openreview.net/pdf?id%253DWwceaG9wOU):
+
 ```
 Bounias, Dimitrios, et al. "Risk-adjusted Training and Evaluation for Medical Object Detection in Breast Cancer MRI." ICML 3rd Workshop on Interpretable Machine Learning in Healthcare (IMLH). 2023.
 ```
