@@ -7,6 +7,12 @@ SPDX-License-Identifier: BSD-3-Clause
 
 Copyright German Cancer Research Center (DKFZ) and contributors. Please make sure that your usage of this code is in compliance with its [license](./LICENSE).
 
+### Cite
+
+```
+Bounias, Dimitrios, et al. "Risk-adjusted Training and Evaluation for Medical Object Detection in Breast Cancer MRI." ICML 3rd Workshop on Interpretable Machine Learning in Healthcare (IMLH). 2023.
+```
+
 ### Overview
 
 Easy to use and reusable implementations of 
